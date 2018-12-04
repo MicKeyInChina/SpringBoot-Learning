@@ -9,7 +9,7 @@
 	<packaging>jar</packaging>
 
 	<name>Chapter1</name>
-	<description>The first Spring Boot project</description>
+	<description>The first Spring Boot project1111</description>
 
 	<parent>
 		<groupId>org.springframework.boot</groupId>
